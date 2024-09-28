@@ -1,8 +1,11 @@
-const App = () => {
+import { FC } from "react";
+import GlobalStyle from "./global";
+
+const App: FC = () => {
   return (
-    <div>
-      App
-    </div>
+    <>
+      <GlobalStyle/>
+    </>
   )
 }
 
