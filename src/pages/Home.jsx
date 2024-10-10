@@ -1,13 +1,11 @@
-// import LaFormationDuSubjonctif from "../articles/LaFormationDuSubjonctif";
-import LesHypotheses from "../articles/LesHypotheses";
+import FrLesHypotheses from "../articles/FrLesHypotheses";
 import Article from "../components/Article";
 
 const Home = () => {
   return (
     <div>
-      {/* <LaFormationDuSubjonctif /> */}
       <Article>
-        <LesHypotheses />
+        <FrLesHypotheses />
       </Article>
     </div>
   );

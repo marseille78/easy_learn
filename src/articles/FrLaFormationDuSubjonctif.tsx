@@ -1,6 +1,6 @@
 import { FC } from "react"
 
-const LaFormationDuSubjonctif: FC = () => {
+const FrLaFormationDuSubjonctif: FC = () => {
   return (
     <>
       <h1>La formation du subjonctif</h1>
@@ -188,4 +188,4 @@ const LaFormationDuSubjonctif: FC = () => {
   )
 }
 
-export default LaFormationDuSubjonctif
+export default FrLaFormationDuSubjonctif;
