@@ -1,4 +1,4 @@
-import FrLesHypotheses from "../articles/FrLesHypotheses";
+import FrLesHypotheses from "../articles/fr/FrLesHypotheses";
 import Article from "../components/Article";
 
 const Home = () => {
